@@ -1,6 +1,6 @@
 ## Important Note
 
-**This repository is a fork of https://github.com/lazywithclass/winston-cloudwatch - the vm2 depedency has been removed in this fork, as it is no longer needed.**
+**This repository is a fork of https://github.com/lazywithclass/winston-cloudwatch - the proxy-agent dependency was removed in order to remove the vm2 dependency that has had several vulnerabilities disclosed recently.**
 
 # winston-cloudwatch [v6.1.1] (https://github.com/lazywithclass/winston-cloudwatch/blob/master/CHANGELOG.md#611)
 
